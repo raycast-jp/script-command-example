@@ -18,8 +18,6 @@
 // @raycast.author myano
 // @raycast.authorURL https://github.com/nagauta
 import { exec } from 'child_process';
-// const url = process.argv.slice(2)[0];
-// const lang = process.argv.slice(2)[1];
 const [url, lang] = process.argv.slice(2);
 function isUrl(input) {
     const urlPattern =
