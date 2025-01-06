@@ -10,7 +10,7 @@
 // Optional parameters:
 // @raycast.icon images/google.png
 // @raycast.argument1 { "type": "text", "placeholder": "url"}
-// @raycast.argument2 { "type": "dropdown", "placeholder": "ja", "data": [{"title": "en", "value": "en"}, "optional": true}
+// @raycast.argument2 { "type": "text", "placeholder": "en", "optional": true}
 // @raycast.packageName google-search
 
 // Documentation:
