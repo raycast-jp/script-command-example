@@ -1,4 +1,4 @@
-#!/Users/myano/.local/share/mise/installs/node/20/bin/node
+#!/usr/bin/env node
 // Dependency: This script requires Nodejs.
 // Install Node: https://nodejs.org/en/download/
 
